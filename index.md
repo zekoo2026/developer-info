@@ -3,7 +3,7 @@
 iOSアプリの開発・運営に関する情報を掲載しているサイトです。
 各アプリの紹介、およびApp Storeの審査や運用に必要なドキュメント（利用規約・プライバシーポリシー）をご確認いただけます。
 
-[English version here](/en/)
+[English version here](/en/index.md)
 
 ---
 
