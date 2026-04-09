@@ -2,7 +2,7 @@
 
 Last updated: April 9, 2026
 
-These Terms of Service (hereinafter "Terms") apply to all applications and related services (hereinafter "Apps") provided by App developer (hereinafter "Operator").
+These Terms of Service (hereinafter "Terms") apply to all applications and related services (hereinafter "Apps") provided by this App developer (hereinafter "Operator").
 
 ## 1. Agreement
 By downloading or using our Apps, you are deemed to have agreed to these Terms.
