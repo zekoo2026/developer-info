@@ -3,7 +3,7 @@
 Welcome to the support site for my iOS applications. 
 Here you can find information about the apps, as well as the Terms of Service and Privacy Policy required by the App Store.
 
-[日本語版はこちら](/)
+[日本語版はこちら](../index.md)
 
 ---
 
