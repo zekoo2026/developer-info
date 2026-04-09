@@ -16,12 +16,12 @@ Here you can find information about the apps, as well as the Terms of Service an
 
 Here are the applications currently available on the App Store.
 
-### [RouteNote]
+### RouteNote
 A brief description or tagline of the app goes here.
 - [Details & Support](apps.md#app1)
 - [View on the App Store](https://apps.apple.com/...)
 
-### [App Name 2]
+### Saien
 A brief description or tagline of the app goes here.
 - [Details & Support](apps.md#app2)
 - [View on the App Store](https://apps.apple.com/...)
