@@ -1,8 +1,3 @@
----
-layout: default
-title: Home (EN)
----
-
 # iOS App Support
 
 Welcome to the support site for my iOS applications. 
