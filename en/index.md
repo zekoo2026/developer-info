@@ -19,7 +19,7 @@ Here are the applications currently available on the App Store.
 ### RouteNote
 A brief description or tagline of the app goes here.
 - [Details & Support](apps.md#app1)
-- [View on the App Store](https://apps.apple.com/...)
+- [View on the App Store](https://apps.apple.com/app/%E8%BB%8C%E8%B7%A1%E3%83%A1%E3%83%A2/id1460240007)
 
 ### Saien
 A brief description or tagline of the app goes here.
