@@ -26,6 +26,11 @@ Home Garden Manager
 - [Details & Support](apps.md#app2)
 - [View on the App Store](https://apps.apple.com/app/%E8%8F%9C%E5%9C%92%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC/id6759288695)
 
+### Genjo
+AI Zen & Zazen Timer
+- [Details & Support](apps.md#app2)
+- [View on the App Store](https://apps.apple.com/app/%E8%8F%9C%E5%9C%92%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC/id6759288695)
+
 ---
 
 ## Documents
