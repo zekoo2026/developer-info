@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # iOS App Support
 
 iOSアプリの開発・運営に関する情報を掲載しているサイトです。
