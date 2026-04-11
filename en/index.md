@@ -13,7 +13,7 @@ Here are the applications currently available on the App Store.
 
 ### RouteNote
 For recording delivery, sales
-- [Details & Support](apps.md#app1)
+- [Details & Support](https://zekoo2026.github.io/RouteNote-docs/en)
 - [View on the App Store](https://apps.apple.com/app/%E8%BB%8C%E8%B7%A1%E3%83%A1%E3%83%A2/id1460240007)
 
 ### Saien
